@@ -1,0 +1,10 @@
+.cart-details{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+.cartDetails-heading{
+    margin-right: 20px;
+}
+.cartDetails-heading p{
+    font-weight: 600;
+}

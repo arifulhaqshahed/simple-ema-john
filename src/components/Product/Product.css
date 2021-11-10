@@ -1,0 +1,18 @@
+.product{
+    display: flex;
+    margin: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.product-details{
+    margin: 10px;
+}
+button{
+    background-color: goldenrod;
+    border: 1px solid goldenrod;
+    padding: 5px 50px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.icon{
+    color: goldenrod;
+}

@@ -1,0 +1,29 @@
+
+.logo{
+    height: 60px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    padding: 10px;
+}
+.navbar{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 40px;
+    font-size: large;
+    font-weight: 600;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: rgb(211, 121, 88);
+    border-radius: 10px;
+    color: white;
+}
+.navlink{
+    margin-top: 5px;
+}
